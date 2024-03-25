@@ -1,0 +1,14 @@
+.arrows {
+    justify-content: space-around;
+    display: flex;
+    width: 75px;
+}
+.block{
+    border: 1px solid black;
+    border-radius: 15px;
+    max-width: 200px;
+    margin: 20px;
+    padding: 10px 30px;
+    align-items: center;
+    justify-content: space-around;
+}
